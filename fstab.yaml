@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/adobe-commerce/ccdm-demo-store/
+    type: markup
+
+folders:
+  /products/: /products/default
